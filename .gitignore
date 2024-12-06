@@ -3,3 +3,4 @@ notebooks
 __pycache__
 .env
 .vscode
+inputs/
